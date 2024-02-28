@@ -1,4 +1,4 @@
-# 🦜🔗 Langchain - Quickstart App
+# 🦜🔗 Hamza Adnan
 
 Build your first LLM powered app with Langchain and Streamlit.
 
